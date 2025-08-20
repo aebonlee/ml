@@ -4,5 +4,3 @@
 
 출처: https://hunkim.github.io/ml/
 #딥러닝 #머신러닝 #텐서플로우
-
-## http://ml.jobability.co.kr/
